@@ -5,7 +5,7 @@ title: Tow Truck Driver
 | Întrebare   | Răspuns |
 | ----------- | :-----------: |
 | Câștig mediu pe ora? | ~<Dinero :amount='1700' /> |
-| Ce nivel este necesar? | Nivel 5 |
+| Ce nivel este necesar? | 0 ore jucate (imediat dupa conectare) |
 | Necesită vehicul personal? | Nu, jobul se practică cu un vehicul special. |
 | Necesită permis de conducere? | Nu, dar ajută (categoria B). |
 | Necesită iteme specifice? | Nu. |
@@ -65,7 +65,7 @@ La fiecare _**$400**_ câștigați în cadrul job-ului există șansa de _**20%*
 
 | **Imagine** | **Stackable?** | **Șansă de drop %** | **Utilitate**
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/oXVperm.png" alt="Drill" width="48" label="Drill" /> | **Da, 10 per stack** |  **20%, vezi deasupra tabelului**  | [Fleeca Bank Rob](../illegal-activities/robberies/fleeca-bank-robbery) |
+| <Image src="https://i.imgur.com/oXVperm.png" alt="Drill" width="48" label="Drill" /> | **Da, 32 per stack** |  **20%, vezi deasupra tabelului**  | [Fleeca Bank Rob](../illegal-activities/robberies/fleeca-bank-robbery) |
 
 ## Upgrades
 
@@ -95,8 +95,8 @@ Lista cu upgrade-urile disponibile și costurile în puncte de upgrade este urm�
 | Level | Cost (puncte de upgrade) |
 | ----------- | :-----------: |
 | Level 1 | 75 puncte de upgrade |
-| Level 2 | 150 puncte de upgrade |
-| Level 3 | 250 puncte de upgrade |
+| Level 2 | 250 puncte de upgrade |
+| Level 3 | 450 puncte de upgrade |
 
 ###  Suspension Upgrade
 

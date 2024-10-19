@@ -16,9 +16,9 @@ title: Hitman Agency
 
 ## Aplicația Hitman
 
-Prin intermediul acestei aplicații se transmit servicii către **agenția Hitman**. Acestea costă minim 200 USDT și pot fi de **două tipuri**, mai exact fără martori și cât se poate de **discret** sau într-o manieră **brutală** fără ca asasinul să gândească de două ori când vede ținta, indiferent de circumstanțe.
+Prin intermediul acestei aplicații se transmit servicii către **agenția Hitman**. Acestea pot fi de **două tipuri**, mai exact fără martori și cât se poate de **discret** care costă minim 650 USDT sau într-o manieră **brutală** fără ca asasinul să gândească de două ori când vede ținta, indiferent de circumstanțe care costă minim 500 USDT.
 
-<Image src="https://i.imgur.com/3oHqd3o.png" alt="Hitman" /> 
+<Image src="https://i.imgur.com/9w85G77.png" alt="Hitman" /> 
 
 ## Echipamentul
 
@@ -28,9 +28,17 @@ Prin intermediul acestei aplicații se transmit servicii către **agenția Hitma
 Pentru a face asta, trebuie să urci la etajul **HQ-ului** și să apeși tasta `E` pe *checkpoint-ul* mov denumit *Contracts list* si sa selectezi un contract din lista! 
 :::
 
-<Image src="https://i.imgur.com/kp2pnkN.png" alt="Pistol" label="Pistol" width="150" /> 
+<Image src="https://i.imgur.com/kp2pnkN.png" alt="Pistol" label="Pistol" width="150" />
+<Image src="https://i.imgur.com/b7N6yYi.png" alt="Pistol .50" width="150" label="Pistol .50" /> 
 <Image src="https://i.imgur.com/LNDlffh.png" alt="Sniper" label="Sniper Rifle" width="150" />
 
+::: tip
+
+Pistolul .50 este disponibil începând cu **rank 2**.
+
+Atașamentele pe Pistolul .50 sunt disponibile începând cu **rank 2** iar pe Sniper Rifle începând cu **rank 3**.
+
+:::
 
 ## Vehicule
 

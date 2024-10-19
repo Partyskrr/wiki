@@ -5,10 +5,11 @@ title: Trucker
 | Întrebare   | Răspuns |
 | ----------- | :-----------: |
 | Câștig mediu pe ora? | ~<Dinero :amount='1750' /> |
+| Nivel minim necesar? | Nu, minim 10 ore jucate pe cont. |
 | Necesită vehicul personal? | Nu, jobul se practică cu un vehicul special. |
 | Necesită permis de conducere? | Nu, dar ajută (categoria C). |
 | Necesită iteme specifice? | Nu. |
-| Posibilitate găsire obiecte speciale? | [Da](#obiecte-speciale-pentru-crafting--șanse-de-găsire). |
+| Posibilitate găsire obiecte speciale? | [Da](#obiecte-speciale-pentru-crafting-sanse-de-gasire). |
 | Locație NPC Trucker | [Palmer-Taylor Power Station](https://i.imgur.com/tOFQmL1.png)  |
 
 ## Desfășurarea jobului  
@@ -69,15 +70,21 @@ Pe lângă suma de bani primită după trasportul de marfă, mai ai șansa de a 
 
 ::: tip Detalii șanse drop  
 
-La fiecare _**$300**_ câștigați în cadrul job-ului există șansa de _**20%**_ de a găsi Explosive.
+La fiecare _**$300**_ câștigați în cadrul job-ului există o șansa de a găsi unul din următoarele obiecte speciale de mai jos.
 
 În sumele reprezentate mai sus, bonusurile ce afectează job-urile (ex: World Exploration, joint, Liberty Boost, clan perk) sunt incluse.
 
 :::  
 
-| **Imagine** | **Stackable?** | **Șansă de drop %** | **Utilitate**
-| :-----------: | :-----------: | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/BijpevO.png" alt="Explosive" width="48" label="Explosive" /> | **Da, 20 per stack** |  **20%, vezi deasupra tabelului**  | C4 Bomb |
+| **Imagine** | **Șansă de drop %** | **Utilitate**
+| :-----------: | :-----------: | :-----------: |
+| <Image src="https://i.imgur.com/BijpevO.png" alt="Explosive" width="48" label="Explosive" /> | **20%, vezi deasupra tabelului**  | C4 Bomb |
+| <Image src="https://i.imgur.com/gssj0CY.png" alt="Red Paint" width="48" label="Red Paint" /> | **30%, vezi deasupra tabelului**  | Craftarea unui Spray Paint - [Spray Tags](/clans/spray-wars/spray-tags) |
+| <Image src="https://i.imgur.com/ShRER66.png" alt="Green Paint" width="48" label="Green Paint" /> | **30%, vezi deasupra tabelului**  | Craftarea unui Spray Paint - [Spray Tags](/clans/spray-wars/spray-tags) |
+| <Image src="https://i.imgur.com/aK3hk4R.png" alt="Blue Paint" width="48" label="Blue Paint" /> | **30%, vezi deasupra tabelului**  | Craftarea unui Spray Paint - [Spray Tags](/clans/spray-wars/spray-tags) |
+
+::: tip Acestea pot fi puse maxim în Stack de 32.
+:::
 
 ## Cazuri în care nu poți efectua jobul  
  
