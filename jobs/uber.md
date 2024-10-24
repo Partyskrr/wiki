@@ -5,7 +5,7 @@ title: Uber
 | Întrebare   | Răspuns |
 | ----------- | :-----------: |
 | Câștig mediu pe ora? | ~<Dinero :amount='1700' /> |
-| Ce nivel este necesar? | Nivel 15 |
+| Nivel minim necesar? | Nu, minim 20 ore jucate pe cont. |
 | Necesită vehicul personal? | Da |
 | Necesită permis de conducere? | Nu, dar ajută (categoria A/B). |
 | Necesită iteme specifice? | Nu. |
@@ -86,12 +86,15 @@ Pe lângă suma de bani obținută la finalul cursei, mai ai șansa de a găsi o
 
 ::: tip Detalii șanse drop
 
-La fiecare <Dinero :amount='400' /> munciți în cadrul job-ului există șansa de _**20%**_ de a găsi _**Pliers**_, obiect ce ajută în jefuirea băncii Fleeca. 
+La fiecare <Dinero :amount='400' /> munciți în cadrul job-ului există șansa de _**20%**_ de a găsi _**Pliers**_, obiect ce ajută în jefuirea băncii Fleeca.
+
+În sumele reprezentate mai sus, bonusurile ce afectează job-urile (ex: World Exploration, joint, Liberty Boost, clan perk) sunt incluse.
+
 :::
 
 | **Imagine** | **Stackable?** | **Șansă de drop %** | **Utilitate** |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/TGIAVQa.png" alt="Pliers" width="48" label="Pliers" /> | **Da, 10 per stack** |  **20%, vezi deasupra tabelului**  | [Fleeca Bank Rob](../illegal-activities/robberies/fleeca-bank-robbery) |
+| <Image src="https://i.imgur.com/TGIAVQa.png" alt="Pliers" width="48" label="Pliers" /> | **Da, 32 per stack** |  **20%, vezi deasupra tabelului**  | [Fleeca Bank Rob](../illegal-activities/robberies/fleeca-bank-robbery) |
 
 ## Cazuri în care nu poți efectua job-ul
 ### Înafara zonei de job.

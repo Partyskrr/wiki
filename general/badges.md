@@ -22,15 +22,40 @@ Nu, badge-urile nu aduc nici un beneficiu in-game, ci doar estetic pe [UCP](http
 
 În următoarele rânduri veți găsi badge-urile disponibile în momentul de față afișate într-un tabel și ce trebuie să faceți pentru a le obține.
 
-### Beta Period Badge
+### Open Beta Period Badge
 
-Acest badge a fost înmânat jucătorilor ce au contribuit în perioada beta a serverului. Nu se mai poate obține în momentul actual.
+Acest badge a fost înmânat jucătorilor ce au contribuit în perioada open beta a serverului. Nu se mai poate obține în momentul actual.
 
 | Badge   | Cerință |
 | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/Bnr5W0Q.png" alt="BadgeBETA" width="50" label="Beta Testing Badge" />| obținut în perioada beta |
 
-### Premium Account Badge
+### Beta Tester Badge
+
+Acest badge este înmânat jucătorilor ce contribuie la testarea sistemelor ale serverului.
+
+| Badge   | Cerință |
+| :-----------: | :-----------: |
+| <Image src="https://ucp.liberty.mp/assets/images/profile/badges/beta_tester.png" alt="Beta Tester" width="50" label="Beta Tester Badge" />| obținut la testarea sistemelor de pe serverul Beta |
+
+### Job Skill Master Badges
+
+Aceste badge-uri sunt acordate jucătorilor care obțin ultimul nivel de skill, Master, în cadrul unui job specific.
+
+| Badge | Cerință |
+| :-----------: | :-----------: |
+<Image src="https://i.imgur.com/4UFmAML.png" alt="JOBSKILL" width="50" label="Back To School" />| obținut de jucătorii care atins ultimul nivel, Master, în cadrul jobului [Electrician](https://wiki.liberty.mp/jobs/electrician)
+<Image src="https://i.imgur.com/7gsp54c.png" alt="JOBSKILL" width="50" label="Back To School" />| obținut de jucătorii care atins ultimul nivel, Master, în cadrul jobului [Fisherman](https://wiki.liberty.mp/jobs/fisherman)
+<Image src="https://i.imgur.com/hNLQr9s.png" alt="JOBSKILL" width="50" label="Back To School" />| obținut de jucătorii care atins ultimul nivel, Master, în cadrul jobului [Garbageman](https://wiki.liberty.mp/jobs/garbageman)
+<Image src="https://i.imgur.com/1kKpFtx.png" alt="JOBSKILL" width="50" label="Back To School" />| obținut de jucătorii care atins ultimul nivel, Master, în cadrul jobului [Lumberjack](https://wiki.liberty.mp/jobs/lumberjack)
+<Image src="https://i.imgur.com/df4LGhB.png" alt="JOBSKILL" width="50" label="Back To School" />| obținut de jucătorii care atins ultimul nivel, Master, în cadrul jobului [Miner](https://wiki.liberty.mp/jobs/miner)
+<Image src="https://i.imgur.com/zXNvhar.png" alt="JOBSKILL" width="50" label="Back To School" />| obținut de jucătorii care atins ultimul nivel, Master, în cadrul jobului [Trucker](https://wiki.liberty.mp/jobs/trucker)
+<Image src="https://i.imgur.com/9Qu4vtE.png" alt="JOBSKILL" width="50" label="Back To School" />| obținut de jucătorii care atins ultimul nivel, Master, în cadrul jobului [Uber](https://wiki.liberty.mp/jobs/uber)
+<Image src="https://i.imgur.com/h7xLMUJ.png" alt="JOBSKILL" width="50" label="Back To School" />| obținut de jucătorii care atins ultimul nivel, Master, în cadrul jobului [Deep Sea Fishing](https://wiki.liberty.mp/jobs/deep-sea-fishing)
+<Image src="https://i.imgur.com/GyiZfcY.png" alt="JOBSKILL" width="50" label="Back To School" />| obținut de jucătorii care atins ultimul nivel, Master, în cadrul jobului [Money Transporter](https://wiki.liberty.mp/jobs/moneytransporter)
+<Image src="https://i.imgur.com/NFhLimR.png" alt="JOBSKILL" width="50" label="Back To School" />| obținut de jucătorii care atins ultimul nivel, Master, minând [Criptomonede](https://wiki.liberty.mp/clans/spray-wars/districts/crypto-farm)
+
+### Premium Account Badges
 
 În momentul de față se pot obține 4 badge-uri de acest tip, fiecare fiind obținut la o anumită perioadă prestabilită achiziționând <PremiumSubscription type='gold' /> / <PremiumSubscription type='platinum' />.
 
@@ -41,7 +66,7 @@ Acest badge a fost înmânat jucătorilor ce au contribuit în perioada beta a s
 | <Image src="https://i.imgur.com/vL6ckpM.png" alt="Premium 3" width="50" label="Premium 3 Years" />| obținut la achiziționarea de 3 ani de premium account |
 | <Image src="https://i.imgur.com/2QDVNZH.png" alt="Premium 4" width="50" label="Premium 4 Years" />| obținut la achiziționarea de 4 ani de premium account |
 
-### Bounty Hunters Badge
+### Bounty Hunters Badges
 
 Există 5 tipuri de badge pentru această activitate și unul pentru clan. Acestea se pot obține în funcție de locul pe care-l ocupi la finalul unui sezon de [Bounty Hunters](../events/bounty-hunters).
 
@@ -58,15 +83,21 @@ Membrii clanului aflat pe locul 1 la final de sezon Bounty Hunters vor primi bad
 | <Image src="https://i.imgur.com/NGwpTQ4.png" alt="BH4" width="50" label="Bounty Hunters Silver" />| obținut la finalul unui sezon de Bounty Hunters pe locul 4 |
 | <Image src="https://i.imgur.com/bKpnEvf.png" alt="BH5" width="50" label="Bounty Hunters Bronze" />| obținut la finalul unui sezon de Bounty Hunters pe locul 5 |
 
-### Liberty Pass Badge
+### Liberty Pass Badges
 
-În momentul de față, există doar un badge ce se poate obține aici, cel pentru sezonul 1, urmând să fie actualizate datele la următoarele sezoane de [Liberty Pass](../events/libertypass-seasonal-event).
+Acest badge poate fi obținut la finalizarea battlepass-ului [Liberty Pass](../events/libertypass-seasonal-event).
 
 | Badge   | Cerință |
 | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/EuMloev.png" alt="LP1" width="50" label="Liberty Pass Season 1" />| obținut de jucătorii ce termină Liberty Pass-ul, sezonul 1 |
+| <Image src="https://i.imgur.com/EuMloev.png" alt="Liberty Pass" width="50" label="Liberty Pass Season" />| obținut de jucătorii ce termină Liberty Pass-ul |
 
-### Halloween Event Badge
+Un badge nou a fost adăugat odată cu `Sezonul 3` din [Liberty Pass](../events/libertypass-seasonal-event). Acesta poate fi obținut de jucătorii ce dețin varianta Premium a Liberty Pass-ului și au finalizat [Bonus Quest 2](../events/libertypass-seasonal-event#ce-sunt-tierele-bonus).
+
+| Badge   | Cerință |
+| :-----------: | :-----------: |
+| <Image src="https://ucp.liberty.mp/assets/images/profile/badges/battlepass_completionist.png" alt="Battlepass Completionist" width="50" label="Battlepass Completionist" />| obținut de jucătorii ce au completat 'Bonus Quest 2' |
+
+### Halloween Event 2023 Badge
 
 Acest badge a fost acordat jucătorilor ce au participat la evenimentul de [Halloween](../events/halloween-seasonal-event) din 2023.
 
@@ -84,3 +115,30 @@ Aceste badge-uri au fost acordate jucătorilor ce au participat la evenimentul d
 | <Image src="https://i.imgur.com/8bsRuSh.png" alt="Prezentare badge" label="Snowman Quest 2023" width="50" /> | obținut de jucătorii ce au completat [Snowman Quest](../events/winter-seasonal-event#snowman-quest-⛄) de 15 ori |
 | <Image src="https://i.imgur.com/ZvPYU0i.png" alt="Prezentare badge" label="Snow Plow Cleaning 2023" width="50" /> | obținut de jucătorii ce au acumulat minim 100 de [decorațiuni de Crăciun](#christmas-decorations-🎄) în cadrul evenimentului [Snow Plow Cleaning](../events/winter-seasonal-event#snow-plow-cleaning-🚜) |
 
+### One Year Anniversary 2024 Badge
+
+Acest badge a fost acordat jucătorilor ce au participat la evenimentul de [Anniversary](../events/anniversary-seasonal-event) din 2024.
+
+| Badge   | Cerință |
+| :-----------: | :-----------: |
+| <Image src="https://i.imgur.com/CHdswhv.png" alt="HLLW2023" width="50" label="Anniversay Event" />| obținut de jucătorii ce au livrat de 15 ori cuvântul „LIBERTYMP”, în zile diferite, în cadrul evenimentului Anniversary |
+
+### Summer 2024 Badge
+
+Aceste badge-uri au fost acordate jucătorilor ce au participat la evenimentul de [Vară](../events/liberty-summer-festival) din 2024.
+
+| Badge | Cerință |
+| :-----------: | :-----------: |
+| <Image src="https://i.imgur.com/RCQDnWP.png" alt="SUMMER2024" width="50" label="Ice Cream Delivery Badge 2024" />| obținut de jucătorii ce au atins suma de $200,000 în cadrul [jobului de vara](../events/liberty-summer-festival#ice-cream-delivery-🍦). |
+| <Image src="https://i.imgur.com/NvQpEyT.png" alt="SUMMER2024" width="50" label="Metal Scavenger Badge 2024" />| obținut de jucătorii ce au completat [Metal Scavenger](../events/liberty-summer-festival#metal-scavenger-🧈) de 20 de ori. |
+| <Image src="https://i.imgur.com/qnIwhcj.png" alt="SUMMER2024" width="50" label="Scuba Diving Badge 2024" />| obținut de jucătorii ce au completat [Scuba Diving](../events/liberty-summer-festival#scuba-diving-🤿) de 20 de ori. |
+| <Image src="https://i.imgur.com/9wWXknx.png" alt="SUMMER2024" width="50" label="Liberty Summer Festival Badge 2024" />| obținut de jucătorii ce au completat cele trei activitati [Scuba Diving, Metal Scavenger si Ice Cream Stand Refill (livrarea a 50 de inghetate/zi lui Hannah)] de 50 de ori si atingerea sumei de $400,000 in cadrul jobului de vara. |
+
+### Back To School 2024
+
+Aceste badge-uri au fost acordate jucătorilor ce au participat la evenimentul de toamnă, 'Back 2 School' din 2024.
+
+| Badge | Cerință |
+| :-----------: | :-----------: |
+<Image src="https://i.imgur.com/mX5nRm1.png" alt="BACK2SCHOOL" width="50" label="Back To School" />| obținut de jucătorii care au găsit în total un număr de 500 cărți pe parcursul evenimentului
+<Image src="https://i.imgur.com/1MDKFt9.png" alt="BACK2SCHOOL" width="50" label="Back To School Group" />| obținut de jucătorii care au în total un număr de 400 de cărți într-un grup cu alți jucători, pe parcursul evenimentului

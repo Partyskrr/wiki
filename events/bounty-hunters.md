@@ -5,7 +5,7 @@ title: Bounty Hunters
 | Întrebare | Răspuns |
 | :-----------: | :-----------: |
 | Event permanent? | Da. |
-| Nivel minim participare? | Nu. |
+| Nivel minim participare? | Da, 5. |
 | Posibilitate găsire obiecte speciale? | [Da.](#recompense) |
 | Necesită iteme specifice? | Da, o armă. |
 | Locație statistici eveniment? | `O` -> `Quests & Events` |
@@ -80,7 +80,8 @@ Servieta (Suitcase) trebuie livrată la Alfred într-un interval de 10 minute, a
 | - | <Image src="https://i.imgur.com/hMMK1SU.png" alt="Electronic keyboard" width="40" label="Electronic keyboard" /> | 
 | - | <Image src="https://i.imgur.com/BijpevO.png" alt="Explosive" width="40" label="Explosive" /> | 
 | - | <Image src="https://i.imgur.com/oXVperm.png" alt="Drill" width="40" label="Drill" /> |
-| - | <Image src="https://i.imgur.com/pbD84wd.png" alt="Pliers" width="40" label="Pliers" /> | 
+| - | <Image src="https://i.imgur.com/pbD84wd.png" alt="Pliers" width="40" label="Pliers" /> |
+| - | <Image src="https://ucp.liberty.mp/assets/images/inventory/drugs/tobacco_seeds.png" alt="Tobacco Seeds" width="40" label="Tobacco Seeds" /> |  
 
 ::: tip 
 Recompensă generală are șansă de _**100%**_ să o primeşti.
